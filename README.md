@@ -22,8 +22,8 @@ discord_info = osintcat(cat_id="", module="discord", query="ID")
 print(discord_info)
 
 
-email_intel = osintcat(cat_id="", module="email-osint", query="target@example.com")
-print(email_intel)
+email_osint = osintcat(cat_id="", module="email-osint", query="target@example.com")
+print(email_osint)
 ```
 
 ## 🛠️ Available Modules
@@ -31,7 +31,7 @@ print(email_intel)
 | Module | Description | Input Example |
 |--------|-------------|--------------|
 | `breach` | Data breach Lookup | `target@example.com` |
-| `discord` | Discord ID 2 IP | ID |
+| `discord` | Discord ID 2 IP | `ID` |
 | `email-osint` | Email OSINT Lookup | `target@example.com` |
 
 ## 🔧 Configuration
