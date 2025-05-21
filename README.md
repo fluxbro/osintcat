@@ -38,15 +38,6 @@ print(email_osint)
 
 osintcat requires a `cat_id` for authentication. You can get your cat id on [our website](https://osintcat.com/register) ( Only for premium users. ).
 
-## 🌐 Community
-
-<div align="center">
-  <a href="https://discord.gg/osintcats">
-    <img src="https://img.shields.io/discord/1369757362612732124?color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord server">
-  </a>
-</div>
-
-Join our community for support
 
 ## 🔄 Changelog
 
