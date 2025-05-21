@@ -1,2 +1,0 @@
-# osintcat
-osintcat python package
