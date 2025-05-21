@@ -30,9 +30,10 @@ print(email_intel)
 
 | Module | Description | Input Example |
 |--------|-------------|--------------|
-| `breach` | Data breach checker | `example@gmail.com` |
-| `discord` | Discord intelligence | `username#1234` or ID |
-| `email-osint` | Email investigation | `target@example.com` |
+| `breach` | Data breach Lookup | `target@example.com` |
+| `discord` | Discord ID 2 IP | ID |
+| `email-osint` | Email OSINT Lookup | `target@example.com` |
+
 ## 🔧 Configuration
 
 osintcat requires a `cat_id` for authentication. You can get your cat id on [our website](https://osintcat.com/register) ( Only for premium users. ).
